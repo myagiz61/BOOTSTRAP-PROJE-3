@@ -1,4 +1,4 @@
-<h1>BOOTSTRAP KULLANIRAK YAPILAN SİTE</h1>
+<h1>BOOTSTRAP KULLANILARAK YAPILAN SİTE</h1>
 
 <h2>Kullanılan Teknolojiler</h2>
 
